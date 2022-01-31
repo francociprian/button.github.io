@@ -5,4 +5,7 @@
 
 https://francociprian.github.io/button.github.io/
 
-<h1>⚡</h1> - [https://9points.000webhostapp.com/](https://9points.000webhostapp.com/)
+<h1>⚡</h1> 
+
+<p aling="left" size="xl"> ⚡ <a href="https://9points.netlify.app/">https://9points.netlify.app/</a> </p>
+<p aling="left"> <a href="https://9points.000webhostapp.com/">https://9points.000webhostapp.com/</a> </p> 
