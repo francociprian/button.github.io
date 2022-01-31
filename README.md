@@ -5,6 +5,4 @@
 
 https://francociprian.github.io/button.github.io/
 
-[https://9points.000webhostapp.com/](https://9points.000webhostapp.com/)
-
-<h1>⚡</h1>
+<h1>⚡</h1> [https://9points.000webhostapp.com/](https://9points.000webhostapp.com/)
