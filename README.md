@@ -5,14 +5,14 @@
 
 https://francociprian.github.io/button.github.io/
 
-<h1 align="center">Holaa 👋, soy Franco Ciprian</h1>
-<h2 align="center">Proyecto Desarrollo Web CODERHOUSE</h2>
+<h1 align="center">Holaa 👋, soy Franco Ciprian</h1><br>
+<h2 align="center">Proyecto Desarrollo Web CODERHOUSE</h2><br>
 
 <h3 align="left">9POINTS</h3>
 
 <p align="left">
 Desarrollo de una empresa que brinda soluciones de software, utilizando HTML para la estructura, SCSS para el apartado visual y Javascript básico para interacciones con la página. Se hizo uso de la metodologia BEM, y el proyecto se gestionó utilizando GIT para control de versiones. 
-</p>
+</p><br>
 
 <h3 aling="left"> Link al Proyecto </p>
 
